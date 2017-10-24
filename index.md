@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Andrew Peitzsch
+Biomedical engineering student at Stony Brook University, specializing in biomechanics and biomaterials.
 
-You can use the [editor on GitHub](https://github.com/APeitzsch/apeitzsch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+```markdown 
+### Current Projects
+Currently working in the lab of Mei Lin Chan at Stony Brook University and is ivestigating the effects of alcohol and low intensity vibration on bone strength.
+```
 
 ### Markdown
 
