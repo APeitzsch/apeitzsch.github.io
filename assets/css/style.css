@@ -25,7 +25,13 @@ ul {
   padding: 0;
 }
 
-.heading {
-  background-color = #7A9D9D;
+div.heading {
+  padding: 3em;
+  border-style: solid;
+  border-color: #FFFFFF;
+  border-width: 1em 5em 1em 5em;
+  
+  background-color: #7A9D9D;
 }
+
   
