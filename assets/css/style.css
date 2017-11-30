@@ -1,6 +1,6 @@
 body {
   font-family: Helvetica;
-  padding: 7em;
+  padding: 2em;
   background-color: #FFFFFF;
 }
 
@@ -30,14 +30,21 @@ div.heading {
   border-style: solid;
   border-color: #FFFFFF;
   border-width: 1em 5em 1em 5em;
-  background-color: #669999;
+  background-color: #7BB2B0;
 }
 
 div.link {
   padding: 4em;
   border-style: solid;
-  border-color: #FFFFFF #339933;
+  border-color: #FFFFFF #419E3C;
   border-width: 0em 1em 1em 1em;
-  background-color: #66cc66;
+  background-color: #6DC169;
   /* Use 66CC66 for unselected, use 339933 for highlighted, use white for selected*/
+}
+
+div.projects {
+  padding: 4em;
+  border-style: solid;
+  border-width: 2em 7em;
+  border-color: #419E3C #FFFFFF #FFFFFF #FFFFFF;
 }
